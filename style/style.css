@@ -1,0 +1,268 @@
+.header {
+  background-image: url("../images/Banner\ Image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 750px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 55px;
+}
+/* catagoris-style */
+
+.catagoris-title {
+  color: red;
+  text-align: center;
+  font-size: 100px;
+}
+
+.catagoris-img img {
+  width: 1000px;
+  margin: 0 auto;
+}
+.catagoris-img {
+  margin: 0 auto;
+  text-align: center;
+}
+.text-color {
+  color: white;
+}
+.catagoris-2 {
+  font-size: 24px;
+  font-weight: 500px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+}
+.catagoris-3 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 48px;
+  color: rgb(7, 2, 17);
+  font-size: 48px;
+}
+/* section-catagoris-sec */
+.catagoris-sec {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-image: url("../images/Vectorrr.png");
+  background-repeat: no-repeat;
+  padding: 50px;
+}
+.catagoris-one {
+  text-align: center;
+  color: white;
+  font-size: 55px;
+}
+.catagoris-two {
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 18px;
+  font-weight: 400px;
+}
+.btn {
+  font-weight: 700;
+  font-size: 20px;
+}
+/* catagoris-third-style*/
+
+.place {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600px;
+}
+.priya {
+  color: red;
+}
+.date-c {
+  color: red;
+}
+.time-c {
+  color: red;
+}
+.date {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600px;
+}
+.time {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 600px;
+}
+.catagoris-third {
+  background-image: linear-gradient(rgba(255, 0, 0, 0.1), rgba(255, 0, 0, 0));
+  width: 1000px;
+
+  padding: 100px;
+}
+.btn-b {
+  font-weight: 500px;
+  font-size: 20px;
+  color: white;
+  background-color: red;
+  border: none;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 10px;
+}
+.button {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+}
+.offer {
+  display: flex;
+  justify-content: space-around;
+}
+.h2 {
+  color: red;
+  font-size: 24px;
+}
+.h1 {
+  color: rgb(7, 2, 17);
+  font-size: 48px;
+}
+.h4 {
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+}
+.img {
+  border: 20px solid red;
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.year {
+  color: red;
+  font-size: 48px;
+}
+.dolor {
+  font-size: 20px;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+.what {
+  text-align: center;
+  font-size: 20px;
+  color: rgb(7, 2, 17);
+}
+.holi {
+  font-size: 72px;
+  text-align: center;
+}
+.spc {
+  color: rgb(255, 0, 0);
+}
+
+.sit {
+  text-align: center;
+  color: rgba(7, 2, 17, 0.6);
+}
+
+.ig {
+  text-align: right;
+}
+.box {
+  position: absolute;
+  bottom: 0;
+  left: 200px;
+}
+.box img {
+  width: 500px;
+}
+.group {
+  position: relative;
+  height: 200px;
+}
+.gift {
+  color: red;
+  text-align: left;
+  font-size: 24px;
+}
+.our {
+  color: rgb(7, 2, 17);
+  text-align: left;
+  font-size: 48px;
+}
+.mod {
+  text-align: left;
+  color: rgba(7, 2, 17, 0.6);
+  font-size: 20px;
+}
+.the {
+  margin-top: 50px;
+}
+.ybag {
+  text-align: left;
+}
+.antic {
+  text-align: center;
+  padding-left: 24px;
+}
+.hole {
+  display: flex;
+}
+.redsho {
+  padding-left: 24px;
+}
+.shole {
+  display: flex;
+  margin-top: 24px;
+}
+.whitesho {
+  text-align: left;
+}
+.glass {
+  text-align: center;
+  padding-left: 24px;
+}
+.ring {
+  padding-left: 24px;
+}
+.pink-kham {
+  background-color: lavender;
+}
+.kham {
+  text-align: center;
+}
+.sub {
+  text-align: center;
+  font-size: 48px;
+}
+.sub-2 {
+  text-align: center;
+  font-size: 20px;
+  color: rgba(7, 2, 17, 0.6);
+}
+.btn {
+  text-align: center;
+  background-color: azure;
+  font-size: 18px;
+  font-weight: 500px;
+  color: white;
+}
+.btn-s {
+  font-weight: 500px;
+  font-size: 20px;
+  color: white;
+  background-color: red;
+  border: none;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 32px;
+  padding-right: 32px;
+  border-radius: 10px;
+}
+.input {
+  width: 500px;
+  height: 30px;
+}
